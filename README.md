@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! 👋
+### - Meu nome é Gabriel de Melo Veloso 🐱‍🚀
+### - Contato 📲:
+### - gabriel.velosoq@gmail.com 📩
+### - www.linkedin.com/in/gabriel-de-melo-veloso-1876782b6
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMelo2&layout=compact&theme=vue-dark)
+
 
 <!--
 **GabrielMelo2/GabrielMelo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
