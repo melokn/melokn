@@ -1,7 +1,7 @@
 # Olá! 👋
 
 # - 🐱‍🚀 Meu nome é Gabriel de Melo Veloso 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vue-dark&show_icons=true&include_all_commits=true&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melokn&layout=donut&theme=vue-dark&show_icons=true&include_all_commits=true&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
  - 📲Contato:
