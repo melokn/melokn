@@ -4,7 +4,7 @@
 
 
  - 📲Contato:
- - 📩 gabriel.velosoq@gmail.com 
+ - 📩 gabriel.veloso5@gmail.com 
  - 🔗 www.linkedin.com/in/gabriel-de-melo-veloso-1876782b6
 
 
